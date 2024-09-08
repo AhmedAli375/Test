@@ -1,3 +1,3 @@
-# Test Conflict
+# Test 1
 
-# Test Merge
+# Merge Test
